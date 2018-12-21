@@ -2,7 +2,7 @@
   "Name": "Bow",
   "Author": "spacechase0",
   "Version": "1.0.0",
-  "Description": "...",
+  "Description": "A ranged weapon.",
   "UniqueID": "spacechase0.Bow",
   "PerSaveConfigs": false,
   "EntryDll": "Bow.dll",
